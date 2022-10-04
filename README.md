@@ -1,2 +1,1 @@
-# tinDog
-This is buying and selling dogs app.
+TinDog Starting Files
